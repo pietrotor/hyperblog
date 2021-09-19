@@ -10,5 +10,6 @@ En este curso verémos de todo. Nuestro plan de estudio es este:
 - El verdadero amor por la buenas prácticas
 - Trucos muy locos del profesor
 - Las personaldades multiples de Freddy
+- Creado por el maestro del Dota
 
 Y como un amable recordatorio Este es un **Readme.md**. Diseñado como ejemplo para el curso de Git y GitHub de Platzi.
