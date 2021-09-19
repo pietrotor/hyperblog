@@ -12,5 +12,6 @@ En este curso verémos de todo. Nuestro plan de estudio es este:
 - Las personaldades multiples de Freddy
 - Creado por el maestro del Dota
 - Incluye ejemplos en Windows y Mac
+- Diponible para todas las edades
 
 Y como un amable recordatorio Este es un **Readme.md**. Diseñado como ejemplo para el curso de Git y GitHub de Platzi.
